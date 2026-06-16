@@ -172,7 +172,7 @@ A detailed report containing:
 
 is available below:
 
-📄 **[View Project Report](report/ESP32_Environment_Monitoring_Report.pdf)**
+📄 **[View Project Report](report/esp32_environment_monitoring_system.pdf)**
 
 ---
 
