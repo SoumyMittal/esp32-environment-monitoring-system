@@ -115,7 +115,7 @@ esp32-environment-monitoring-system/
 └── images/
     ├── hardware_setup.jpeg
     ├── circuit_diagram.jpeg
-    ├── ├── circuit_diagram.png
+    ├── ltspice_schematic.png
     └── ltspice_waveform.png
 ```
 
@@ -152,15 +152,11 @@ esp32-environment-monitoring-system/
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.jpeg)
 
 ### Hardware Implementation
 
-![Hardware Setup](images/hardware_setup.jpg)
-
-### Working Demonstration
-
-![Working Demo](images/working_demo.jpg)
+![Hardware Setup](images/hardware_setup.jpeg)
 
 ---
 
